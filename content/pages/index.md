@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Cochin Ophthalmic Club - Home Page
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Cochin Ophthalmic Club - Home Page
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
