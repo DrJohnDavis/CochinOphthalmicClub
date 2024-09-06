@@ -1,6 +1,6 @@
 ---
 title: Activities
-slug: pricing
+slug: activities
 sections:
   - title:
       text: Flexible Pricing
