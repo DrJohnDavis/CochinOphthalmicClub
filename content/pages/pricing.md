@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Activities
 slug: pricing
 sections:
   - title:
