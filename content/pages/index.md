@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: 'New Executive of COC : 2023-2025'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Cochin Ophthalmic Club is the official organization of ophthalmologists
+      from Kochi, Kerala. Affiliated to the Kerala Society of Ophthalmic
+      Surgeons.
     actions:
       - label: Get started
         altText: ''
