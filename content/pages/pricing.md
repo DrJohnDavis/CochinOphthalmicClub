@@ -12,7 +12,7 @@ sections:
     subtitle: Activities of Cochin Ophthalmic Club
     plans:
       - title: YouTube
-        price: Free
+        price: COC
         details: YouTube Channel
         description: |
           Official YouTube channel of Cochin Ophthalmic Club
