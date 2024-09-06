@@ -748,6 +748,7 @@ seo:
   metaDescription: Cochin Ophthalmic Club - Home Page
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 isDraft: true
 ---
