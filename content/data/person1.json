@@ -1,9 +1,9 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Dr John Davis Akkara",
+    "role": "Joint Secretary, Cochin Ophthalmic Club",
     "image": {
-        "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "url": "/images/john-davis-akkara.jpg",
+        "altText": "Dr John Davis Akkara, Ophthalmologist",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Ophthalmologist & Techie. Cataract, Glaucoma & Refractive Surgeon.\n"
 }
