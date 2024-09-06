@@ -14,9 +14,8 @@ sections:
       - title: Developers
         price: Free
         details: YouTube Channel
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Official YouTube channel of Cochin Ophthalmic Club
         features:
           - Feature one
           - Feature two
