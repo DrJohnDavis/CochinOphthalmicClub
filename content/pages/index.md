@@ -7,7 +7,7 @@ sections:
       text: Cochin Ophthalmic Club Executive Team 2023-2025
       color: text-dark
       type: TitleBlock
-    subtitle: wheeeee
+    subtitle: New Executive of COC - 2023-2025
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
