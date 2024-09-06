@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Cochin Ophthalmic Club is da best!
+      text: Cochin Ophthalmic Club Executive Team 2023-2025
       color: text-dark
       type: TitleBlock
     subtitle: wheeeee
