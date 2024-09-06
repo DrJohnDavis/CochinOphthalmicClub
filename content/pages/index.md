@@ -7,7 +7,7 @@ sections:
       text: Cochin Ophthalmic Club Executive Team 2023-2025
       color: text-dark
       type: TitleBlock
-    subtitle: 'New Executive of COC : 2023-2025'
+    subtitle: 'New Executive Committee of COC : 2023-2025'
     text: >
       Cochin Ophthalmic Club is the official organization of ophthalmologists
       from Kochi, Kerala. Affiliated to the Kerala Society of Ophthalmic
