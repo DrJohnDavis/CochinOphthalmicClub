@@ -56,7 +56,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Activities of Cochin Ophthalmic Club
-  metaDescription: lorem-ipsum
+  metaDescription: coc-activities
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
