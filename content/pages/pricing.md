@@ -27,7 +27,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Watch now
-            url: /
+            url: 'https://www.youtube.com/c/CochinOphthalmicClub'
             icon: arrowRight
             iconPosition: right
             style: secondary
