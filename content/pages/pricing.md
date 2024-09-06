@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Activities of Cochin Ophthalmic Club
     plans:
-      - title: Developers
+      - title: YouTube
         price: Free
         details: YouTube Channel
         description: |
