@@ -161,7 +161,7 @@ sections:
         altText: Braille Day Webinar 2024
         type: ImageBlock
       - url: /images/DrNM Lecture&CME.png
-        altText: Dr Noel Moniz CME 2024
+        altText: Dr Noel Moniz Lecture 2024
         type: ImageBlock
       - url: /images/NM INVITE EDITED.png
         altText: Dr Noel Moniz Lecture 2025
