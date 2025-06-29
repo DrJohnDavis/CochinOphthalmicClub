@@ -1,7 +1,7 @@
 ---
 title: August Ophthalmica 2025
 slug: case-study-1
-date: '2025-08-05'
+date: '2025-08-10'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
