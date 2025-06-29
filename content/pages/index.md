@@ -154,7 +154,7 @@ sections:
       - url: /images/August-Ophthalmica-2024_invite.jpg
         altText: August Ophthalmica 2024
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/AO-Quiz-2024.jpg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
