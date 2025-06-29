@@ -350,7 +350,7 @@ sections:
           ![](/images/August-2025.jpg)
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/coc-small.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
