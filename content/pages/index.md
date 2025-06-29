@@ -149,7 +149,7 @@ sections:
         altText: COC Executive team 2023-2025
         type: ImageBlock
       - url: /images/August-2025.jpg
-        altText: Wellster logo
+        altText: August Ophthalmica 2025
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
