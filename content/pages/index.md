@@ -163,7 +163,7 @@ sections:
       - url: /images/DrNM Lecture&CME.png
         altText: Dr Noel Moniz CME 2024
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/NM INVITE EDITED.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
