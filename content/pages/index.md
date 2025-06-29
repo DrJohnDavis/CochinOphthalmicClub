@@ -151,9 +151,6 @@ sections:
       - url: /images/August-2025.jpg
         altText: August Ophthalmica 2025
         type: ImageBlock
-      - url: /images/August-Ophthalmica-2024_invite.jpg
-        altText: August Ophthalmica 2024
-        type: ImageBlock
       - url: /images/AO-Quiz-2024.jpg
         altText: August Ophthalmica 2024 Quiz
         type: ImageBlock
