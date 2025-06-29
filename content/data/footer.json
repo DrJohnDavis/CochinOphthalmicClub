@@ -11,7 +11,7 @@
             {
                 "label": "Activities",
                 "altText": "Activities page",
-                "url": "/",
+                "url": "/activities",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
