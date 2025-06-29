@@ -342,10 +342,12 @@ sections:
       - title: August Ophthalmica 2025
         tagline: Annual CME
         subtitle: Cochin Ophthalmic Club
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          August Ophthalmica 2025
+
+
+
+          ![](/images/August-2025.jpg)
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
