@@ -158,7 +158,7 @@ sections:
         altText: August Ophthalmica 2024 Quiz
         type: ImageBlock
       - url: /images/youtube-thumbnail.jpg
-        altText: Contentful logo
+        altText: Braille Day Webinar 2024
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
