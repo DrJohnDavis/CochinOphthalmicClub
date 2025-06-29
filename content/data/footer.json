@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Activities",
-                "altText": "Features page",
+                "altText": "Activities page",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
