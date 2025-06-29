@@ -349,12 +349,13 @@ sections:
 
           ![](/images/August-2025.jpg)
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
           styles:
             self:
-              borderRadius: full
-          type: ImageBlock
+              borderRadius: medium
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
