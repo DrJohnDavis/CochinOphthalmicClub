@@ -82,7 +82,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: August Ophthalmica
           elementId: ''
           url: /images/icon1.svg
           styles:
