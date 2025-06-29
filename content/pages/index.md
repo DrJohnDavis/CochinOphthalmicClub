@@ -148,9 +148,6 @@ sections:
       - url: /images/COC-executive-members.PNG
         altText: COC Executive team 2023-2025
         type: ImageBlock
-      - url: /images/August-2025.jpg
-        altText: August Ophthalmica 2025
-        type: ImageBlock
       - url: /images/AO-Quiz-2024.jpg
         altText: August Ophthalmica 2024 Quiz
         type: ImageBlock
