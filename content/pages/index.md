@@ -90,7 +90,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Dr Noel Moniz Memorial Lecture (and CME)
-        subtitle: The Job Stuff
+        subtitle: Ophthalmology Lecture in honor of the Late Dr Noel Moniz
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
