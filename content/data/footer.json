@@ -45,7 +45,7 @@
     },
     "socialLinks": [
         {
-            "altText": "LinkedIn link",
+            "altText": "YouTube link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
             "type": "Social"
