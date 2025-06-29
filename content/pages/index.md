@@ -152,7 +152,7 @@ sections:
         altText: August Ophthalmica 2025
         type: ImageBlock
       - url: /images/August-Ophthalmica-2024_invite.jpg
-        altText: Vise logo
+        altText: August Ophthalmica 2024
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
