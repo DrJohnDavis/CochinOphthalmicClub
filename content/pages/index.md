@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: August Ophthalmica
-        subtitle: Numbers Done
+        subtitle: Annual CME
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
