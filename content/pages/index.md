@@ -91,8 +91,9 @@ sections:
               borderRadius: x-large
       - title: Dr Noel Moniz Memorial Lecture (and CME)
         subtitle: Ophthalmology Lecture in honor of the Late Dr Noel Moniz
-        text: |
-          An annual ophthalmology lecture in memory of Dr Noel Moniz.
+        text: >
+          An annual ophthalmology lecture in memory of Dr Noel Moniz. Look for
+          the page of individual Dr Noel Moniz Lecture and CME programs.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
