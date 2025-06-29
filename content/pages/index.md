@@ -350,7 +350,7 @@ sections:
           ![](/images/August-2025.jpg)
         image:
           type: ImageBlock
-          url: /images/coc-small.png
+          url: /images/coc-logo_rectangle-cut-white-background.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
