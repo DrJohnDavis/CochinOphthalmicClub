@@ -148,7 +148,7 @@ sections:
       - url: /images/COC-executive-members.PNG
         altText: COC Executive team 2023-2025
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/August-2025.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
