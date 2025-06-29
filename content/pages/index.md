@@ -157,7 +157,7 @@ sections:
       - url: /images/AO-Quiz-2024.jpg
         altText: August Ophthalmica 2024 Quiz
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/youtube-thumbnail.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
