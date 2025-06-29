@@ -155,7 +155,7 @@ sections:
         altText: August Ophthalmica 2024
         type: ImageBlock
       - url: /images/AO-Quiz-2024.jpg
-        altText: Telus logo
+        altText: August Ophthalmica 2024 Quiz
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
