@@ -210,11 +210,21 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      <iframe width="560" height="315"
+      src="https\://www\.youtube.com/embed/lKsDD\_FkP3Y?si=Hw5LrH-dEEBklnhf"
+      title="YouTube video player" frameborder="0" allow="accelerometer;
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+      web-share" referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen></iframe>
+
+
+
+
+
+
+      Cochin Ophthalmic Club Braille Day Webinar 2025
+
     actions: []
     media:
       title: Title of the video
