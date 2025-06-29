@@ -161,7 +161,7 @@ sections:
         altText: Braille Day Webinar 2024
         type: ImageBlock
       - url: /images/DrNM Lecture&CME.png
-        altText: Sanity logo
+        altText: Dr Noel Moniz CME 2024
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
