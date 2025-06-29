@@ -340,7 +340,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: August Ophthalmica 2025
-        tagline: Testimonial 1
+        tagline: Annual CME
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
