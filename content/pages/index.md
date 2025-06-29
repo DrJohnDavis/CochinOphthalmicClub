@@ -164,7 +164,7 @@ sections:
         altText: Dr Noel Moniz CME 2024
         type: ImageBlock
       - url: /images/NM INVITE EDITED.png
-        altText: Rangle logo
+        altText: Dr Noel Moniz Lecture 2025
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
