@@ -337,7 +337,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Scientific Programs
     items:
       - title: August Ophthalmica 2025
         tagline: Annual CME
