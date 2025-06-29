@@ -96,7 +96,7 @@ sections:
           the page of individual Dr Noel Moniz Lecture and CME programs.
         image:
           url: /images/icon2.svg
-          altText: Featured icon two
+          altText: Dr Noel Moniz Lecture
           elementId: ''
           type: ImageBlock
         actions: []
