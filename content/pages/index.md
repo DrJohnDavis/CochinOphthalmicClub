@@ -64,8 +64,9 @@ sections:
       - type: FeaturedItem
         title: August Ophthalmica
         subtitle: Annual CME
-        text: |
-          Annual CME of Cochin Ophthalmic Club conducted in August of every year
+        text: >
+          Annual CME of Cochin Ophthalmic Club conducted in August of every
+          year. Look for the specific page of each year's August Ophthalmica
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
