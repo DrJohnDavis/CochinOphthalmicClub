@@ -154,9 +154,6 @@ sections:
       - url: /images/AO-Quiz-2024.jpg
         altText: August Ophthalmica 2024 Quiz
         type: ImageBlock
-      - url: /images/NM INVITE EDITED.png
-        altText: Dr Noel Moniz Lecture 2025
-        type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
