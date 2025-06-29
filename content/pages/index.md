@@ -222,7 +222,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Cochin Ophthalmic Club - Home Page
+  metaTitle: Cochin Ophthalmic Club - Home
   metaDescription: Cochin Ophthalmic Club - Home Page
   socialImage: /images/coc.png
   type: Seo
