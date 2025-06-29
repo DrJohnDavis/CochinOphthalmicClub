@@ -342,12 +342,7 @@ sections:
       - title: August Ophthalmica 2025
         tagline: Annual CME
         subtitle: Cochin Ophthalmic Club
-        text: |
-          August Ophthalmica 2025
-
-
-
-          ![](/images/August-2025.jpg)
+        text: "August Ophthalmica 2025\n\n\n\nThe much awaited August Ophthalmica 2025 is here✨\n\nThe focus is on Paediatric Ophthalmology this year with curated talks by experts✨\n\nDr Leila Mohan, a much respected senior practioneer with passion for paediatric\neye care, is delivering the prestigious Prof T Gopinatha Menon Memorial Oration\nthis year✨\n\nAs always, COC Blindness Relief Endowment Fund Program promises to deliver the\nmuch deserved help to the needy✨\n\nAn exciting Medicolegal Session is on the cards ✨\n\nLast but not the least , the COC Young Scholar Award Competition, truly,\_ a first of its kind in Kerala, aims to bestow\nthe award to the post-grauate student with the best original research work✨\n\nCome, be a part of this enriching experience ✨\n\n\\#SaveTheDate #RegisterToday\n\nUPI: [upi://pay?pa=coc@kbl](https://upi.pe/coc@kbl)\n\n**To send screenshot via WhatsApp to Dr Praveen Muraly**\n\n<https://wa.me/919008460607?text=Dear+Dr+Praveen+Muraly.+I%27m+registering+for+August-Ophthalmica-CME-2025.+Sending+screenshot+of+UPI+payment.+My+name+is+&type=phone_number>\n\n\n\n\n\n\n\n![](/images/August-2025.jpg)\n"
         image:
           type: ImageBlock
           url: /images/coc-logo_rectangle-cut-white-background.png
