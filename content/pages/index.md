@@ -146,7 +146,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/COC-executive-members.PNG
-        altText: Empathy logo
+        altText: COC Executive team 2023-2025
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
