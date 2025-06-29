@@ -160,7 +160,7 @@ sections:
       - url: /images/youtube-thumbnail.jpg
         altText: Braille Day Webinar 2024
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/DrNM Lecture&CME.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
