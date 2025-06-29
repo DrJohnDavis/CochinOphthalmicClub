@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/August-2025.jpg
-  altText: Case study 1
+  altText: August Ophthalmica 2025
   styles:
     self:
       borderRadius: large
